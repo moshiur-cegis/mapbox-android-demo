@@ -351,4 +351,7 @@
     <!-- Variable label placement-->
     <string name="zoom_map_in_and_out_variable_label_instruction">Zoom in and out to see red labels try to avoid collisions</string>
 
+    <!-- Variable label placement-->
+    <string name="zoom_map_in_and_out_circle_to_icon_transition">Zoom in and out to see the circles transition to icons</string>
+
 </resources>

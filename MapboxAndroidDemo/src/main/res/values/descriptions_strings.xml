@@ -63,6 +63,7 @@
     <string name="activity_dds_polygon_holes_description">Draw a vector polygon with holes on a map using the Mapbox Maps SDK.</string>
     <string name="activity_dds_symbol_collision_detection_description">Allow or deny text and icons to overlap and collide.</string>
     <string name="activity_dds_polygon_revealed_hole_outline_description">Outline a polygon hole to highlight a revealed region.</string>
+    <string name="activity_dds_circle_to_icon_smooth_transition_description">Smoothly transition a circle to an icon.</string>
     <string name="activity_styles_text_field_formatting_description">Adjust the color, size, and fonts of SymbolLayer text fields.</string>
     <string name="activity_annotation_marker_view_description">Attach a view to a given position on the map.</string>
     <string name="activity_annotation_custom_info_window_description">Use an info window adapter to customize the info window.</string>
