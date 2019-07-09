@@ -131,5 +131,6 @@
     <string name="activity_lab_drag_draw_url" translatable="false">https://i.imgur.com/vf5uZyS.png</string>
     <string name="activity_lab_home_screen_widget_url" translatable="false">https://i.imgur.com/H5N9jDn.png</string>
     <string name="activity_lab_rv_directions_url" translatable="false">https://i.imgur.com/LurOuXQ.png</string>
+    <string name="activity_lab_night_space_orbit_url" translatable="false">https://i.imgur.com/LurOuXQ.png</string>
     <string name="activity_china_simple_china_mapview_url" translatable="false">https://i.imgur.com/KwoEynZ.png</string>
 </resources>

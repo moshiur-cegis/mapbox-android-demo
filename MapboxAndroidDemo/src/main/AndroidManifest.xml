@@ -269,6 +269,13 @@
                 android:value="com.mapbox.mapboxandroiddemo.MainActivity" />
         </activity>
         <activity
+            android:name=".examples.labs.NightSpaceOrbitActivity"
+            android:label="@string/activity_lab_night_space_orbit_title">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mapbox.mapboxandroiddemo.MainActivity" />
+        </activity>
+        <activity
             android:name=".examples.labs.AnimatedImageGifActivity"
             android:label="@string/activity_labs_gif_on_map_title">
             <meta-data
